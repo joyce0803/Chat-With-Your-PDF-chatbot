@@ -26,3 +26,5 @@ Receive answers based on the content of the PDF.
 - Streamlit
 - PyTorch and Hugging Face Transformers library
 
+![Example-Image](https://github.com/joyce0803/Chat-with-your-PDF-chatbot/blob/main/image1.jpg)
+![Example-Image](https://github.com/joyce0803/Chat-with-your-PDF-chatbot/blob/main/image2.jpg)
