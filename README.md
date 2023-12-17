@@ -1,6 +1,6 @@
 # Chat-with-your-PDF-chatbot #
 
-Chat-with-Your-PDF-Chatbot is an open-source project that leverages an advanced language model to answer questions related to the content of PDF documents. This project is particularly useful for scenarios where information retrieval from PDFs is required through natural language queries.
+Chat-with-Your-PDF-Chatbot is a project that leverages an advanced open-source language model to answer questions related to the content of PDF documents. This project is particularly useful for scenarios where information retrieval from PDFs is required through natural language queries. 
 
 ## Features ##
 - PDF Document Processing:
