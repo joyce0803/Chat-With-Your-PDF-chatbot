@@ -25,3 +25,4 @@ Receive answers based on the content of the PDF.
 - CPU or GPU
 - Streamlit
 - PyTorch and Hugging Face Transformers library
+
